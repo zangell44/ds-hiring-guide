@@ -63,14 +63,14 @@ How exactly you build the site depends on your skills and how much effort you're
 
 Find people with jobs you want or at companies you want to work for for inspiration. Here's some examples of good websites:
 
-http://users.umiacs.umd.edu/~hal/
-https://www.dyllanmccreary.com/
-https://juliasilge.com/
-http://vancanwin.webflow.io/
-http://amueller.github.io/
-http://pmcruz.com/
-https://minimaxir.com/
-https://web.stanford.edu/~surag/
+- http://users.umiacs.umd.edu/~hal/
+- https://www.dyllanmccreary.com/
+- https://juliasilge.com/
+- http://vancanwin.webflow.io/
+- http://amueller.github.io/
+- http://pmcruz.com/
+- https://minimaxir.com/
+- https://web.stanford.edu/~surag/
 
 
 ## Your GitHub profile
