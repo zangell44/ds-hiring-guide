@@ -37,7 +37,9 @@ The more obvious your value is, the more receptive companies will be when you re
 
 You do need to have a personal website. But you don't need to over-think it.
 
-**What to do:** set up a website for yourself at a custom domain. Your personal website only needs to have 3 things on it:
+**What to do** 
+
+Set up a website for yourself at a custom domain. Your personal website only needs to have 3 things on it:
 
 - Your name.
 
@@ -77,7 +79,7 @@ Find people with jobs you want or at companies you want to work for for inspirat
 
 GitHub is where the rubber hits the road. It's where you show off the real meat of the projects you've done: not just explaining them, but showing the quality of your code. :octocat:
 
-**What to do:** If you don't have a GitHub account, get one. Don't feel bad if it's empty at first. It's _far_ better to have a single project that you're diving deep on than to have 20 projects that are all forks with 1 commit each.
+**What to do** If you don't have a GitHub account, get one. Don't feel bad if it's empty at first. It's _far_ better to have a single project that you're diving deep on than to have 20 projects that are all forks with 1 commit each.
 
 Make sure your pinned repositories represent personal projects. It may be worthwhile to aggregate all Lambda work into one repo and pin that.
 
@@ -86,19 +88,21 @@ Here's a checklist of the bare minimum your GitHub account should have:
 - A README file for each of your projects with a clear explanation of what it does and how to run it
 - Bonus points: A link to a URL where I can test a demo version of your project
 
-**How to do it:**
+**How to do it**
 
 1. If you don't already have a GitHub account, [create one](http://github.com).
 
 2. Add a profile pic of yourself that matches the profile pics you use on other professional networks (LinkedIn especially).
 
-**Why you're doing it:** It's basically guaranteed that at some point during your job application process to _any_ company, someone technically capable is going to look at your GitHub profile. So make sure it looks good.
+**Why you're doing it** It's basically guaranteed that at some point during your job application process to _any_ company, someone technically capable is going to look at your GitHub profile. So make sure it looks good.
 
-## Your resume
+## Your Resume
 
 As you gain more experience, your resume will matter less and less. But early on, it matters a lot.
 
-**What to do:** Put together or update your resume. Make sure it's geared towards data science roles.
+**What to do** 
+
+Put together or update your resume. Make sure it's geared towards data science roles.
 
 Here's a list of common resume mistakes.
 
@@ -126,7 +130,7 @@ And here's a list of things you can do to make your resume stronger.
 - If you've been promoted, list your original and promoted position as 2 job titles under one company heading
 - Make sure your writing is clear and concise. Use short sentences, with one idea per sentence
 
-**How to do it:**
+**How to do it**
 
 (If you already have a resume, skip the first 2 steps.)
 
@@ -150,7 +154,9 @@ The next steps involve subjecting your resume to multiple rounds of review. 🚨
 
 **Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
 
-**Why you're doing it:** If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
+**Why you're doing it** 
+
+If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
 
 ## Your Cover Letter
 
@@ -168,7 +174,9 @@ Always have someone proof your cover letter before sending it. Installing Gramma
 
 You probably have a LinkedIn account already. If you don't have one yet, get one.
 
-**What to do:** Create or polish your LinkedIn account. You should think about your LinkedIn profile the same way an ambitious person thinks about what to wear in an office: _dress for the job you want, not the job you have._
+**What to do** 
+
+Create or polish your LinkedIn account. You should think about your LinkedIn profile the same way an ambitious person thinks about what to wear in an office: _dress for the job you want, not the job you have._
 
 Here's a list of common LinkedIn profile mistakes.
 
@@ -179,7 +187,7 @@ Here's a list of common LinkedIn profile mistakes.
 - Gaps in your timeline of education or experience
 - Mentioning that you have "communication skills"
 - Calling yourself an "aspiring" data scientist
-- Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
+- Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate
 - Long taglines in your profile, e.g., "Graduated | Actively looking for openings in startups and internships | Software, Machine learning, IT, Data Analyst"
 
 Here's a list of some LinkedIn profile do's:
@@ -211,13 +219,13 @@ The next steps involve subjecting your LinkedIn to multiple rounds of review. �
 
 **Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
 
-**Why you're doing it:** You're going to be reaching out to hiring managers and CEOs on LinkedIn _a lot_. When you do, those hiring managers and CEOs will look at your profile as the first thing they do. So make sure it's bulletproof!
+**Why you're doing it** You're going to be reaching out to hiring managers and CEOs on LinkedIn _a lot_. When you do, those hiring managers and CEOs will look at your profile as the first thing they do. So make sure it's bulletproof!
 
 ## Your Twitter account
 
 Twitter isn't essential, but it can be very useful. The key is to follow insightful people in your industry and engage with them. This is a long-term strategy: it works well, but can take several months.
 
-**What to do:** Get a Twitter account and start following interesting people. Here's a few people we find interesting that you can start with:
+**What to do** Get a Twitter account and start following interesting people. Here's a few people we find interesting that you can start with:
 - [@DavidDuvenaud](https://twitter.com/DavidDuvenaud), creator of neural ODEs
 - [@geoffreyhinton](https://twitter.com/geoffreyhinton), godfather of deep learning
 - [@jeremyphoward](https://twitter.com/jeremyphoward), founder of [fast.ai](https://fast.ai)
@@ -229,7 +237,7 @@ Twitter isn't essential, but it can be very useful. The key is to follow insight
 
 **Avoid** following media organizations or political accounts. These are a huge distraction if you're trying to use Twitter professionally. If you _absolutely must_ follow a political account for some reason, mute them so their tweets don't show up in your timeline. Political accounts automatically alienate half of the potential colleagues, try to avoid this.
 
-**How to do it:**
+**How to do it**
 
 1. Go to [Twitter](http://twitter.com) and sign up for an account. Skip the step where Twitter suggests people and news organizations to follow. These are usually terrible suggestions.
 
@@ -239,7 +247,7 @@ Twitter isn't essential, but it can be very useful. The key is to follow insight
 
 4. Send out 10-15 tweets (or just retweet things that interesting people have said) so your profile doesn't look empty.
 
-**Why you're doing it:** It might sound strange, but Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
+**Why you're doing it** It might sound strange, but Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
 
 # Job Search: Application Strategy
 
@@ -311,7 +319,7 @@ If you live somewhere that isn't either a major or minor tech hub, that means yo
 
 The meetup strategy is the strategy that takes the longest to convert. But minute-for-minute, it's easily the most effective. If you live in a [major](#1-you-live-in-a-major-tech-hub) or [minor](#2-you-live-in-a-minor-tech-hub) tech hub, there's no excuse not to use it.
 
-**What to do:** Attend as many _high-quality_ data science-related meetups in your area as you can. Even if you have to commute for an hour to get to the meetup, it can be worth it if the meetup is good enough.
+**What to do** Attend as many _high-quality_ data science-related meetups in your area as you can. Even if you have to commute for an hour to get to the meetup, it can be worth it if the meetup is good enough.
 
 High-quality meetups have most of the following properties:
 
@@ -321,7 +329,7 @@ High-quality meetups have most of the following properties:
 
 - They have **medium attendance.** The meetup should be small enough to be intimate, but big enough that you don't run out of people to talk to. 10-60 people attending is ideal. (That's not "10-60 people signed up on meetup.com". It's "10-60 asses in seats at the meetup".)
 
-**How to do it:**
+**How to do it**
 
 1. [Go to meetup.com and search for tech meetups near your area.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is right.
 
@@ -353,7 +361,7 @@ High-quality meetups have most of the following properties:
 
     Nobody cares about your problems. So if you want someone's attention, you need to care about their problems. (Later, once you've become wealthy and/or powerful, you'll suddenly discover that other people have started to care about your problems.)
 
-**Why you're doing it:**
+**Why you're doing it**
 
 It's important to remember that the value you'll get from attending a meetup series compounds over time. It also compounds over different meetups across the same area, since the same people often go to multiple meetups.
 
