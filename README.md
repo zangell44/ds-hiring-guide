@@ -11,7 +11,9 @@ This guide has been sourced from various places on the interwebs.
 
 **Start After ~15-20 Weeks**
 
-2. Start applying to jobs. Companies look at hiring metrics from various pipelines when evaluating candidates. This means applying thrugh Indeed, for example, may not send a good signal.
+2. Start applying to jobs. How you choose to apply will affect your success rates.
+
+Companies look at hiring metrics from various pipelines when evaluating candidates. This means applying thrugh Indeed, for example, may not send a good signal.
 
 Here are some good places to apply for DS/ML jobs [that aren't generally known](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983):
 
