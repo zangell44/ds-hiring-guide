@@ -461,6 +461,11 @@ Things on your resume and that you mention in the interview are fair game for de
 
 I like [Chris Albon's ML Flashcards](https://machinelearningflashcards.com/). Comparatively low effort + spaced repetition over time can help reinforce concepts.
 
+https://www.coriers.com/the-data-science-interview-study-guide/
+
+https://towardsdatascience.com/giving-some-tips-for-data-science-interviews-after-interviewing-60-candidates-at-expedia-395fff7e073b
+
+
 **SQL**
 
 [SQLZoo](https://sqlzoo.net/)
