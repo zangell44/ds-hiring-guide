@@ -223,34 +223,6 @@ The next steps involve subjecting your LinkedIn to multiple rounds of review. ðŸ
 
 **Why you're doing it** You're going to be reaching out to hiring managers and CEOs on LinkedIn _a lot_. When you do, those hiring managers and CEOs will look at your profile as the first thing they do. So make sure it's bulletproof!
 
-## Your Twitter account
-
-Twitter isn't essential, but it can be very useful. The key is to follow insightful people in your industry and engage with them. This is a long-term strategy: it works well, but can take several months.
-
-**What to do** Get a Twitter account and start following interesting people. Here's a few people we find interesting that you can start with:
-- [@DavidDuvenaud](https://twitter.com/DavidDuvenaud), creator of neural ODEs
-- [@geoffreyhinton](https://twitter.com/geoffreyhinton), godfather of deep learning
-- [@jeremyphoward](https://twitter.com/jeremyphoward), founder of [fast.ai](https://fast.ai)
-- [@math_rachel](https://twitter.com/math_rachel), founder of [fast.ai](https://fast.ai)
-- [@naval](https://twitter.com/naval), founder of AngelList
-- [@patio11](https://twitter.com/patio11), software engineer at Stripe
-- [@paulg](https://twitter.com/paulg), founder of Y Combinator
-- [@Zach_Angell](https://twitter.com/Zach_Angell), he's pretty cool
-
-**Avoid** following media organizations or political accounts. These are a huge distraction if you're trying to use Twitter professionally. If you _absolutely must_ follow a political account for some reason, mute them so their tweets don't show up in your timeline. Political accounts automatically alienate half of the potential colleagues, try to avoid this.
-
-**How to do it**
-
-1. Go to [Twitter](http://twitter.com) and sign up for an account. Skip the step where Twitter suggests people and news organizations to follow. These are usually terrible suggestions.
-
-2. Add a profile picture. Make it the same one you use on LinkedIn.
-
-3. Follow a handful of interesting people in startups and/or machine learning. I recommend starting from the list in **What to do**, above, and letting your interests develop naturally from there.
-
-4. Send out 10-15 tweets (or just retweet things that interesting people have said) so your profile doesn't look empty.
-
-**Why you're doing it** It might sound strange, but Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
-
 # Job Search: Application Strategy
 
 ## Elevator Pitch / Personal Value Proposition
@@ -413,16 +385,6 @@ Zak also has some free templates to get you going [here](https://zakslayback.com
 8. Do this with a small handful of people at first, and you're almost guaranteed to start a productive conversation with at least one of them.
 
 9. **Important:** Don't send generic messages to a ton of people. Impersonal LinkedIn spam will *only* damage your reputation. When in doubt, ask yourself: **Does this message make it obvious that I've spent more than 5 minutes investigating this person's online presence? If the answer isn't "heck yes", then keep working on your message.**
-
-### Some Examples of Networking Messages
-
-Hi `[person]`,
-
-I'll be moving to `[city]` this summer, and I'm trying to get a feel for the data analysis/data science scene. Would you mind if I asked you a few questions? 
- 
-Zach
-
-TODO - more/better networking message examples
 
 # Interviewing Tips
 
